@@ -26,15 +26,6 @@ This project explores a multi-country YouTube trending dataset to:
 - Source: [YouTube Trending Videos Dataset (Kaggle)](https://www.kaggle.com/datasets/thedevastator/youtube-trending-videos-dataset)
 - Description: Trending video data from multiple countries including title, category, views, likes, tags, publish time, and more.
 
-## 📂 Project Structure
-
-```bash
-├── sentiment_analysis.ipynb     # Python code for cleaning and sentiment analysis
-├── yout.sql                     # SQL queries for category ranking and aggregation
-├── YouTube_Trending.pbix        # Power BI dashboard (4 pages)
-├── youtube_with_sentiment.csv   # Enriched dataset with sentiment scores
-├── Youtube_Trending_Storytelling_Presentation.pptx  # Final presentation
-└── YouTube_Trending_Project_Overview.docx           # Project overview document
 
 ## 📊 Power BI Dashboard Pages
 
@@ -81,3 +72,15 @@ These were added as new columns in the dataset to analyze how sentiment correlat
 - ☑ SQL Category Rankings  
 - ☑ Data Storytelling Presentation (PPTX)  
 - ☑ Project Summary Document (DOCX)
+  
+---
+
+## 📂 Project Structure
+
+```bash
+├── sentiment_analysis.ipynb     # Python code for cleaning and sentiment analysis
+├── yout.sql                     # SQL queries for category ranking and aggregation
+├── YouTube_Trending.pbix        # Power BI dashboard (4 pages)
+├── youtube_with_sentiment.csv   # Enriched dataset with sentiment scores
+├── Youtube_Trending_Storytelling_Presentation.pptx  # Final presentation
+└── YouTube_Trending_Project_Overview.docx           # Project overview document
